@@ -18,4 +18,9 @@ public class BookUtil {
         Book newBook = new Book(author,name,pages, catalogNumber,isInStorage);
         return newBook;
     }
+
+    public void editBookCatalogNumber(Book ourBook,String newCatalogNumber){
+        ourBook.setCatalogNumber(newCatalogNumber);
+    }
+
 }

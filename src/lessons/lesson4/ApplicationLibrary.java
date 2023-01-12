@@ -55,5 +55,8 @@ public class ApplicationLibrary {
                 bookUtil.createBookWithAllParameters(newBookAuthor,newBookName,newBookPages,newBookCatalogNumber, newBookisPresent);
 
         System.out.println(ourNextBook);
+
+        bookUtil.editBookCatalogNumber(ourThirddBook,"123-ABC-631");
+        System.out.println(ourThirddBook);
     }
 }
