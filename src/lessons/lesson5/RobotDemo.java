@@ -35,5 +35,9 @@ public class RobotDemo {
         robotSiri.speak("Me too!");
         robotPetya.speak("I am so tired!");
 
+        System.out.println(robotPetya.id);
+
+        System.out.println(robotPetya.id.isEmpty());
+
     }
 }

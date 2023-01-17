@@ -2,6 +2,7 @@ package lessons.lesson5;
 
 public class Robot {
 
+    String id = "";
     String robotName;
     int model;
     boolean isPainter;
