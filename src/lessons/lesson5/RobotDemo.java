@@ -31,5 +31,9 @@ public class RobotDemo {
         // обращаемся к методу  экземпляра класса SIRI
         robotSiri.greetings();
 
+        robotPetya.speak("I am very glad to see you!");
+        robotSiri.speak("Me too!");
+        robotPetya.speak("I am so tired!");
+
     }
 }

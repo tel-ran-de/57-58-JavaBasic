@@ -15,6 +15,7 @@ public class Robot {
         this.isPainter = isPainter;
     }
 
+
     public void hello(){
         System.out.println("Hello!");
     }
@@ -24,6 +25,11 @@ public class Robot {
         System.out.println("Hello! My name is " + robotName);
         System.out.println("My model number is " + model);
         System.out.println("I am " + isPainter + " good painter");
+    }
+
+    public void speak(String message){
+        System.out.println("---------------");
+        System.out.println("Robot " + robotName + " say: " +  message);
     }
 
 
