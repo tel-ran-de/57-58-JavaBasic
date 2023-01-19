@@ -1,4 +1,4 @@
-package lessons.lesson6.lessoncode;
+package lessons.lesson6.lessoncode.staticType;
 
 public class StaticExample {
 
