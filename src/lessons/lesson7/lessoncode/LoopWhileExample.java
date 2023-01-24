@@ -23,9 +23,9 @@ public class LoopWhileExample {
 
             System.out.println("Add result is - " + (x+y));
 
-//            if ((x +y ) > 100) {
-//                condition = false;
-//            }
+            if ((x +y ) > 100) {
+                condition = false;
+            }
 
         }
 
