@@ -1,7 +1,9 @@
 package lessons.lesson7.lessoncode;
 
 public class LoopForExample2 {
+
     public static void main(String[] args) {
+
         String workString = "For loop example.";
 
         for (int i = 0; i < workString.length(); i++) {
