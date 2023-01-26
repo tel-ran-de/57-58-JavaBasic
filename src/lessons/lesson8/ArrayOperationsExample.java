@@ -1,5 +1,7 @@
 package lessons.lesson8;
 
+import java.util.Arrays;
+
 public class ArrayOperationsExample {
 
     public int sumOfArrayElements (int[] workingArray){
@@ -31,6 +33,18 @@ public class ArrayOperationsExample {
             }
         }
         return max;
+    }
+
+    public void checkEvenElements(int[] workingArray){
+
+        int[] newArray = workingArray.clone();
+
+        for (int i = 0; i < newArray.length; i++) {
+            if (i % 2 == 0) {
+                newArray[i] = 0;
+            }
+        }
+        System.out.println("New array - " + Arrays.toString(newArray));
     }
 
 }
