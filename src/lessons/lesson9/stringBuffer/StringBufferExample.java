@@ -1,12 +1,12 @@
-package lessons.lesson9.stringBuilder;
+package lessons.lesson9.stringBuffer;
 
 import java.util.Arrays;
 
-public class StringBuilderExample {
+public class StringBufferExample {
     public static void main(String[] args) {
 
-        StringBuilder stringBuffer = new StringBuilder();
-        StringBuilder stringBuffer1 = new StringBuilder("Something data");
+        StringBuffer stringBuffer = new StringBuffer();
+        StringBuffer stringBuffer1 = new StringBuffer("Something data");
 
         System.out.println(stringBuffer);
         System.out.println(stringBuffer1);
