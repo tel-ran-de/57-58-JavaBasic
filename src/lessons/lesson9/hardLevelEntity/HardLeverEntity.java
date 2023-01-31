@@ -23,7 +23,7 @@ public class HardLeverEntity {
 
         System.out.println(dataTopLevel);
 
-        System.out.println(dataTopLevel.dataHighLevel.dataMiddleLevel.dataLowLevel.names[0]);
+        System.out.println(dataTopLevel.dataHighLevel.dataMiddleLevel.dataLowLevel.names[0].length());
 
     }
 }
