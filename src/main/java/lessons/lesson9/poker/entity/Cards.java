@@ -1,4 +1,4 @@
-package main.java.lessons.lesson9.poker.entity;
+package lessons.lesson9.poker.entity;
 
 public class Cards {
 

@@ -1,4 +1,4 @@
-package main.java.lessons.lesson10.testExamples;
+package lessons.lesson10.testExamples;
 
 public class Task1Test {
 

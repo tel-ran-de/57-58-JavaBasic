@@ -1,4 +1,4 @@
-package main.java.lessons.lesson2;
+package lessons.lesson2;
 
 public class CarDemo {
     public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class CarDemo {
         myCar1.trunk = newTrunk;
         myCar1.transmissionAutomat = true;
 
-        Car car2 = new Car();
+        lessons.lesson2.Car car2 = new lessons.lesson2.Car();
         car2.model = "BMW";
         car2.engin = 3;
         car2.color = "White";

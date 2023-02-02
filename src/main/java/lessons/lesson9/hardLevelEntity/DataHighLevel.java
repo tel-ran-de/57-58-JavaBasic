@@ -1,4 +1,4 @@
-package main.java.lessons.lesson9.hardLevelEntity;
+package lessons.lesson9.hardLevelEntity;
 
 public class DataHighLevel {
 

@@ -1,4 +1,4 @@
-package main.java.lessons.lesson5.workWithString;
+package lessons.lesson5.workWithString;
 
 public class CompareString {
     public static void main(String[] args) {

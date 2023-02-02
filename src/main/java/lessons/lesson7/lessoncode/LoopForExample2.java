@@ -1,4 +1,4 @@
-package main.java.lessons.lesson7.lessoncode;
+package lessons.lesson7.lessoncode;
 
 public class LoopForExample2 {
 

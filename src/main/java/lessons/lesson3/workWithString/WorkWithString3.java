@@ -1,4 +1,4 @@
-package main.java.lessons.lesson3.workWithString;
+package lessons.lesson3.workWithString;
 
 public class WorkWithString3 {
     public static void main(String[] args) {

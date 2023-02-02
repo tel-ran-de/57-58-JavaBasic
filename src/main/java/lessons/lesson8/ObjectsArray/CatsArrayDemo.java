@@ -1,4 +1,4 @@
-package main.java.lessons.lesson8.ObjectsArray;
+package lessons.lesson8.ObjectsArray;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package main.java.lessons.lesson8;
+package lessons.lesson8;
 
 import java.util.Arrays;
 

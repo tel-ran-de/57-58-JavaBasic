@@ -1,4 +1,4 @@
-package main.java.lessons.lesson4.services;
+package lessons.lesson4.services;
 
 import java.util.Scanner;
 

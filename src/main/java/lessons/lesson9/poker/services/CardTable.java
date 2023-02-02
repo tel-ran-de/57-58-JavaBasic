@@ -1,4 +1,4 @@
-package main.java.lessons.lesson9.poker.services;
+package lessons.lesson9.poker.services;
 
 import lessons.lesson9.poker.entity.Card;
 import lessons.lesson9.poker.entity.Cards;

@@ -1,4 +1,4 @@
-package main.java.lessons.lesson9.stringBuffer;
+package lessons.lesson9.stringBuffer;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package main.java.lessons.lesson6.lessoncode.staticType;
+package lessons.lesson6.lessoncode.staticType;
 
 public class PersonDemo {
     public static void main(String[] args) {

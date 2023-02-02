@@ -1,4 +1,4 @@
-package main.java.lessons.lesson5;
+package lessons.lesson5;
 
 public class RobotDemo {
 

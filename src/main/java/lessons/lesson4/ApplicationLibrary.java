@@ -1,4 +1,4 @@
-package main.java.lessons.lesson4;
+package lessons.lesson4;
 
 
 import lessons.lesson4.entity.Book;

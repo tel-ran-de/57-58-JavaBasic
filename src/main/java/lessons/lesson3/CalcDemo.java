@@ -1,4 +1,4 @@
-package main.java.lessons.lesson3;
+package lessons.lesson3;
 
 public class CalcDemo {
     public static void main(String[] args) {

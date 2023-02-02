@@ -1,4 +1,4 @@
-package main.java.lessons.lesson4.entity;
+package lessons.lesson4.entity;
 
 public class Book {
 

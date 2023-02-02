@@ -1,4 +1,4 @@
-package main.java.lessons.lesson6.lessoncode;
+package lessons.lesson6.lessoncode;
 
 public class RandomExample {
     public static void main(String[] args) {

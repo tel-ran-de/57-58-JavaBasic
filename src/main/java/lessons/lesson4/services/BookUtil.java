@@ -1,4 +1,4 @@
-package main.java.lessons.lesson4.services;
+package lessons.lesson4.services;
 
 import lessons.lesson4.entity.Book;
 

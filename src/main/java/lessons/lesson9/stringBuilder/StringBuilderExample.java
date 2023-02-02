@@ -1,4 +1,4 @@
-package main.java.lessons.lesson9.stringBuilder;
+package lessons.lesson9.stringBuilder;
 
 import java.util.Arrays;
 

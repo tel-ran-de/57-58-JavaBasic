@@ -1,4 +1,4 @@
-package main.java.lessons.lesson10.homework;
+package lessons.lesson10.homework;
 
 public class ArrayUtilTest {
     public static void main(String[] args) {

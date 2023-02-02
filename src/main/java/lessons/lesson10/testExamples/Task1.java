@@ -1,4 +1,4 @@
-package main.java.lessons.lesson10.testExamples;
+package lessons.lesson10.testExamples;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package main.java.lessons.lesson10.homework4;
+package lessons.lesson10.homework4;
 
 public class Pizza {
     public static void main(String[] args) {

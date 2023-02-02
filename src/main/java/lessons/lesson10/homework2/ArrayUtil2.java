@@ -1,4 +1,4 @@
-package main.java.lessons.lesson10.homework2;
+package lessons.lesson10.homework2;
 
 public class ArrayUtil2 {
 
