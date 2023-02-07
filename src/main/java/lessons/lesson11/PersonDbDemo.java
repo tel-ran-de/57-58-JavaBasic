@@ -5,7 +5,7 @@ public class PersonDbDemo {
 
         PersonUtil personUtilService = new PersonUtil();
 
-        Person newPerson = personUtilService.createPerson(1, "Petr",18)
+        Person newPerson = personUtilService.createPerson(1, "Petr",18);
 
         personUtilService.addNewPerson(newPerson);
 
