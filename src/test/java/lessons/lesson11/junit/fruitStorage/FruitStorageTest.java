@@ -1,4 +1,4 @@
-package lessons.lesson11junit.fruitStorage;
+package lessons.lesson11.junit.fruitStorage;
 
 import org.junit.jupiter.api.Test;
 

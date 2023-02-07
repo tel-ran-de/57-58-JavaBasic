@@ -1,5 +1,6 @@
-package lessons.lesson11junit;
+package lessons.lesson11;
 
+import lessons.lesson11.junit.Calculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

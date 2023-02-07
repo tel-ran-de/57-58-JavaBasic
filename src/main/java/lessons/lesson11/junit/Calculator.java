@@ -1,4 +1,4 @@
-package lessons.lesson11junit;
+package lessons.lesson11.junit;
 
 public class Calculator {
 

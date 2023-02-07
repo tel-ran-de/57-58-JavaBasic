@@ -1,4 +1,4 @@
-package lessons.lesson11junit.transaction;
+package lessons.lesson11.junit.transaction;
 
 import org.junit.jupiter.api.Test;
 

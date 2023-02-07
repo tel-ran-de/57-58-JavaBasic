@@ -1,4 +1,4 @@
-package lessons.lesson11junit.taxCalculator;
+package lessons.lesson11.junit.taxCalculator;
 
 
 

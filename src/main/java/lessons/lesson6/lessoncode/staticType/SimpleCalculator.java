@@ -9,6 +9,7 @@ public class SimpleCalculator {
         System.out.println(sum(33,71));
         System.out.println(sum(34,72));
 
+
     }
 
     public static int sum(int x, int y){
